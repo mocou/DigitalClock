@@ -1,8 +1,9 @@
 #ignore backup files
 *.bak
+*.temp
 #ignore folds
 db/
-output_files/*.vwf
+output_files/
 incremental_db/
 greybox_tmp/
-
+simulation/
